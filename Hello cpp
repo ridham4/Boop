@@ -1,0 +1,7 @@
+#inclde<iostream>
+using namespace,std;
+int main()
+{
+Cout<<"hello word";
+return 0;
+}
